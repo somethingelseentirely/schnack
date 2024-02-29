@@ -2,6 +2,7 @@
 name = "schnack"
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
 
 [dependencies]
 eframe = { version = "0.26.2", features = ["default"]}
